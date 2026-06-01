@@ -11,7 +11,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC?style=flat-square&logo=tailwind-css&logoColor=true)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
 
-**[🌐 라이브 사이트](https://search-collection.vercel.app)** · [GitHub](https://github.com/gyu-bin/Search_Collection)
+**[🌐 라이브 사이트](https://searchcollection.vercel.app)** · [GitHub](https://github.com/gyu-bin/Search_Collection)
 
 </div>
 
