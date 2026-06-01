@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --cream: #faf8f3;
+  --cream2: #f3efe5;
+  --gold: #b8935a;
+  --gold-light: #e8d5b0;
+  --ink: #2a2118;
+  --ink-soft: #5c4a34;
+  --ink-mute: #9c8e80;
+}
+
+body {
+  color: var(--ink-soft);
+  background: var(--cream);
+  font-family:
+    "Pretendard",
+    -apple-system,
+    BlinkMacSystemFont,
+    system-ui,
+    sans-serif;
+  min-height: 100dvh;
+}
+
+.font-serif {
+  font-family: "Noto Serif KR", Georgia, serif;
+}
