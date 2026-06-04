@@ -64,10 +64,6 @@ export default function HomePage() {
           링크를 추가해 주세요.
         </p>
       ) : null}
-
-      <p className="mt-10 text-center text-xs text-ink-mute">
-        새 설문은 Vercel에 배포한 뒤 설정 파일에 URL만 넣으면 됩니다
-      </p>
     </div>
   );
 }
